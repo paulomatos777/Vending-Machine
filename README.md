@@ -52,6 +52,7 @@ obs: para a utilização do código, leia atentamnete as instrucoes de entrada p
 devem ser explicitados primeiramente quais produtos estam disponiveis nos dez slots, onde cada um recebem até 10 produtos
 apos isso vem os precos em ordem, e logo em seguida os produtos desejados pelo cliente.
 
+link da questao:https://thehuxley.com/problem/2143?quizId=6449
 
 ## exemplo de entrada ##
 
