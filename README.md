@@ -9,6 +9,8 @@ note: to use the code, carefully read the input instructions at the end of the c
 must first be explained which products are available in the ten slots, where each one receives up to 10 products
 after that comes the prices in order, and then the products desired by the customer.
 
+question link on theHuxley:https://thehuxley.com/problem/2143?quizId=6449
+
 
 ## input example ##
 
